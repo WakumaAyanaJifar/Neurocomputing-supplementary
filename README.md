@@ -2,7 +2,7 @@
 
 Code and data for **Case G** of the tutorial
 
-> J. W. Ayana and H. Ning, "Beyond Single-Model Unlearning: A Tutorial on Learned-Information
+> J. W. Ayana J.Ding,and H. Ning, "Beyond Single-Model Unlearning: A Tutorial on Learned-Information
 > Persistence Across Cyber-Physical-Social-Thinking Spaces," submitted to *Neurocomputing*, 2026.
 
 The experiment evaluates every component against **its own counterfactual**: the same pipeline
