@@ -1,0 +1,32 @@
+ga {'lr': 0.003, 'steps': 10, 'alpha': 0.5} floss=0.0020 acc=0.9391 ok=True
+ga {'lr': 0.003, 'steps': 10, 'alpha': 1.0} floss=0.0021 acc=0.9391 ok=True
+ga {'lr': 0.003, 'steps': 20, 'alpha': 0.5} floss=0.0023 acc=0.9374 ok=True
+ga {'lr': 0.003, 'steps': 20, 'alpha': 1.0} floss=0.0030 acc=0.9306 ok=True
+ga {'lr': 0.003, 'steps': 30, 'alpha': 0.5} floss=0.0028 acc=0.9306 ok=True
+ga {'lr': 0.003, 'steps': 30, 'alpha': 1.0} floss=0.0065 acc=0.9272 ok=True
+ga {'lr': 0.003, 'steps': 40, 'alpha': 0.5} floss=0.0036 acc=0.9289 ok=True
+ga {'lr': 0.003, 'steps': 40, 'alpha': 1.0} floss=0.0507 acc=0.9154 ok=False
+ga {'lr': 0.003, 'steps': 60, 'alpha': 0.5} floss=0.0093 acc=0.9255 ok=True
+ga {'lr': 0.003, 'steps': 60, 'alpha': 1.0} floss=12.7145 acc=0.4907 ok=False
+ga {'lr': 0.01, 'steps': 10, 'alpha': 0.5} floss=0.0023 acc=0.9391 ok=True
+ga {'lr': 0.01, 'steps': 10, 'alpha': 1.0} floss=0.0029 acc=0.9306 ok=True
+ga {'lr': 0.01, 'steps': 20, 'alpha': 0.5} floss=0.0052 acc=0.9289 ok=True
+ga {'lr': 0.01, 'steps': 20, 'alpha': 1.0} floss=0.3543 acc=0.8900 ok=False
+ga {'lr': 0.01, 'steps': 30, 'alpha': 0.5} floss=0.1443 acc=0.9069 ok=False
+ga {'lr': 0.01, 'steps': 30, 'alpha': 1.0} floss=16.5087 acc=0.4958 ok=False
+ga {'lr': 0.01, 'steps': 40, 'alpha': 0.5} floss=2.6250 acc=0.7986 ok=False
+ga {'lr': 0.01, 'steps': 40, 'alpha': 1.0} floss=78.6073 acc=0.1404 ok=False
+ga {'lr': 0.01, 'steps': 60, 'alpha': 0.5} floss=13.4802 acc=0.7327 ok=False
+ga {'lr': 0.01, 'steps': 60, 'alpha': 1.0} floss=649.2210 acc=0.1049 ok=False
+scrub {'lr': 0.01, 'epochs': 5, 'msteps': 3, 'rsteps': 5, 'beta': 1.0} floss=0.0020 acc=0.9391 ok=True
+scrub {'lr': 0.01, 'epochs': 5, 'msteps': 3, 'rsteps': 5, 'beta': 5.0} floss=0.0020 acc=0.9391 ok=True
+scrub {'lr': 0.01, 'epochs': 5, 'msteps': 3, 'rsteps': 5, 'beta': 20.0} floss=0.0023 acc=0.9357 ok=True
+scrub {'lr': 0.01, 'epochs': 10, 'msteps': 6, 'rsteps': 5, 'beta': 1.0} floss=0.0020 acc=0.9374 ok=True
+scrub {'lr': 0.01, 'epochs': 10, 'msteps': 6, 'rsteps': 5, 'beta': 5.0} floss=0.0021 acc=0.9357 ok=True
+scrub {'lr': 0.01, 'epochs': 10, 'msteps': 6, 'rsteps': 5, 'beta': 20.0} floss=0.0032 acc=0.9560 ok=True
+scrub {'lr': 0.03, 'epochs': 5, 'msteps': 3, 'rsteps': 5, 'beta': 1.0} floss=0.0020 acc=0.9374 ok=True
+scrub {'lr': 0.03, 'epochs': 5, 'msteps': 3, 'rsteps': 5, 'beta': 5.0} floss=0.0022 acc=0.9357 ok=True
+scrub {'lr': 0.03, 'epochs': 5, 'msteps': 3, 'rsteps': 5, 'beta': 20.0} floss=0.0027 acc=0.9492 ok=True
+scrub {'lr': 0.03, 'epochs': 10, 'msteps': 6, 'rsteps': 5, 'beta': 1.0} floss=0.0021 acc=0.9357 ok=True
+scrub {'lr': 0.03, 'epochs': 10, 'msteps': 6, 'rsteps': 5, 'beta': 5.0} floss=0.0139 acc=0.9425 ok=True
+scrub {'lr': 0.03, 'epochs': 10, 'msteps': 6, 'rsteps': 5, 'beta': 20.0} floss=0.3703 acc=0.9255 ok=True
